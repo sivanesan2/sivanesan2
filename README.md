@@ -17,6 +17,7 @@ The reporting requirement defines the project. Services are available across ind
 ## Professional information
 
 - [Interactive business reporting portfolio](https://github.com/sivanesan2/business-reporting)
+- [Runnable SQL reporting and reconciliation example](https://github.com/sivanesan2/business-reporting/tree/main/sql-example)
 - [LinkedIn profile](https://www.linkedin.com/in/sivanesan-ganesan-438a65201/)
 - [Microsoft Power BI Data Analyst credential](https://learn.microsoft.com/en-us/users/sivanesanganesan-4454/credentials/c90733314bd31244)
 - [Project enquiries by email](mailto:sivanesang99@gmail.com)
