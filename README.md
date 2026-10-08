@@ -27,6 +27,13 @@ My background includes three years of business intelligence, dashboard developme
 
 [Read my professional experience on LinkedIn](https://www.linkedin.com/in/sivanesan-ganesan-438a65201/).
 
+## Selected project experience
+
+These examples describe my reporting project work during previous employment, with results attributed to the combined engagements and workflows involved.
+
+- [Power BI reporting automation](https://github.com/sivanesan2/sivanesan2/blob/main/case-studies/power-bi-reporting-automation.md): a combined engagement delivered 11 executive reports and removed approximately 10 hours of weekly consolidation effort.
+- [SQL validation and monthly KPI reporting](https://github.com/sivanesan2/sivanesan2/blob/main/case-studies/sql-reporting-validation.md): I contributed to a reporting-quality workflow that reduced reported-figure corrections by approximately 80%.
+
 ## Tools and skills
 
 Power BI · Excel · SQL · DAX · Power Query · Data Modelling · ETL · KPI Reporting · Data Visualisation · Python/pandas
